@@ -20,7 +20,7 @@ The commands are listed below
 - Creates a file todo.log that collects all the lines with the tag #TODO
 - The lines can be viewd by typing in the command: **cat todo.log**
 - Command to execute this feature is **./project_analyze.sh todolog** 
->>>>>>> project01
+
 
 ### 2. **File Type Count**
 
