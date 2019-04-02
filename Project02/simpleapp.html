@@ -1,0 +1,43 @@
+<!doctype HTML>
+<html>
+
+<head>
+  <title>BlackJack</title>
+  <script src="simpleapp.js"></script>
+</head>
+
+<body>
+  <h1>BlackJack Game</h1>
+  <h3> Your Cards </h3>
+
+  <img height = "220" width = "150" id="playerImage1" alt = "" src = "">
+  <img height = "220" width = "150" id="playerImage2" alt = "" src = "">
+  <img height = "220" width = "150" id="playerImage3" alt = "" src = "">
+  <img height = "220" width = "150" id="playerImage4" alt = "" src = "">
+  <img height = "220" width = "150" id="playerImage5" alt = "" src = "">
+  <img height = "220" width = "150" id="playerImage6" alt = "" src = "">
+
+
+  <div id = "playerHand"></div>
+
+  <h3> Dealer's Cards </h3>
+
+  <img height = "220" width = "150" id="dealerImage1" src="" alt="">
+  <img height = "220" width = "150" id="dealerImage2" src="" alt="">
+  <img height = "220" width = "150" id="dealerImage3" src="" alt="" style="display:none;">
+  <img height = "220" width = "150" id="dealerImage4" src="" alt="" style="display:none;">
+  <img height = "220" width = "150" id="dealerImage5" src="" alt="" style="display:none;">
+  <img height = "220" width = "150" id="dealerImage6" src="" alt="" style="display:none;">
+
+
+  <div id = "dealerHand"></div>
+
+  <button onclick = "gameStart();" id = "play">Play</button>
+  <button onclick = "dealCard(1);" id = "hit" disabled>Hit</button>
+  <button onclick = "gameOver();" id = "stay" disabled>Stay</button>
+  <button onclick = "gameReset();" id = "reset">reset</button>
+
+  <h1 id="gameOverText"></h1>
+
+</body>
+</html>
