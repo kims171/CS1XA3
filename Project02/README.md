@@ -11,6 +11,11 @@ From the original template, I deleted unnecessary files and edited the index.htm
 
 Simple cardgame BlackJack Game app made using JavaScript.
 
+## How to Start
+
+First, go to https://mac1xa3.ca/u/kims171.
+Scroll all the way to the bottom and click the hyperlink that says "Click here to play BlackJack!"
+
 ## Instructions: 
 
 Your objective of this game is to make your cards add up as closest to, but not over 21.
