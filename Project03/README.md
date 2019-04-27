@@ -4,11 +4,11 @@
 
 Demo: https://mac1xa3.ca/u/kims171/project3.html
 
-##Step 1: How to Run
+## Step 1: How to Run
 
 1. 
 
-##Step 2: How to Play
+## Step 2: How to Play
 
 1. Click the **new game** button on the left.
 2. The goal of this game is to turn all the lights off, the skyblue squares are the squares you want to change.
