@@ -23,3 +23,8 @@ Demo: https://mac1xa3.ca/u/kims171/project3.html
 4. Your goal is to turn all the lights off (change all the colors to deep blue) within the goal number of moves.
 
 TIP: If you have played the 2048 game, simliar strategy can be used for this game as well
+
+## 3. Features
+
+- Used mdgriffith/elm-ui for the main desgin https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/
+- Used Kraxorax/elm-matrix-a for the mainboard design https://package.elm-lang.org/packages/Kraxorax/elm-matrix-a/latest/
